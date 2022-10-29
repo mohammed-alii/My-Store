@@ -1,0 +1,19 @@
+div {
+  text-align: center;
+  margin-top: 200px;
+}
+h1 {
+  font-weight: bold;
+
+}
+
+button {
+  background-color: #0259c8;
+  border: none;
+  width: 250px;
+  height: 50px;
+  color: white;
+  font-size: 20px;
+  cursor: pointer;
+  border-radius: 10px;
+}
